@@ -1,0 +1,9 @@
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\bin\Debug\Final Exam Gude- Students Management System.exe.config
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\bin\Debug\Final Exam Gude- Students Management System.exe
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\bin\Debug\Final Exam Gude- Students Management System.pdb
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\obj\Debug\Final_Exam_Gude__Students_Management_System.Form1.resources
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\obj\Debug\Final_Exam_Gude__Students_Management_System.Properties.Resources.resources
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\obj\Debug\Final Exam Guide- Students Management System.csproj.GenerateResource.cache
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\obj\Debug\Final Exam Gude- Students Management System.exe
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\obj\Debug\Final Exam Gude- Students Management System.pdb
+C:\Roman Visual Studio\Final Exam Gude- Students Management System\Final Exam Gude- Students Management System\obj\Debug\Final Exam Guide- Students Management System.csprojAssemblyReference.cache
